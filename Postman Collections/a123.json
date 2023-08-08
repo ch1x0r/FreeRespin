@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "c665136a-75ff-46a2-a5b8-76ac968d2aaf",
+		"name": "ipc1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"_postman_id": "39c5e499-4d07-4482-a7f8-bb7efd024a2b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
